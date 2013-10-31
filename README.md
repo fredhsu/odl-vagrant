@@ -3,8 +3,8 @@ odl-vagrant
 
 Vagrant setup for OpenDaylight
 Uses Ubuntu Precise 12.04
-Will automatically start OpenDaylight with osgi console on port 8090 when finished.
-Optionally remove the commend in the bootstrap.sh file to load mininet
+Will automatically install and start OpenDaylight with osgi console on port 8090 when finished.
+Optionally remove the comment in the bootstrap.sh file to load mininet
 
 ## Port forwarding to host:
 * 8080 : ODL Web Interface
